@@ -1,3 +1,3 @@
  ## goctl-template
 
- ### 自定义goctl模板
+ ### goctl go-zero 拓展模板
